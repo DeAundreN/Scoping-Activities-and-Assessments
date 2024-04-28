@@ -5,6 +5,7 @@
 PCI Data Flow Narrative using Draw.io
 
 This project provides a visual representation of a PCI-compliant payment flow within a call center environment. 
+
 It includes these steps:
 
 1. Call center sends secure payment link to the customer
@@ -14,7 +15,7 @@ It includes these steps:
 <br />
 
 
-<h2>Program walk-through:</h2>
+<h2>Data Flow Diagram:</h2>
 
 <p align="center">
 Launch the DFD: <br/>
