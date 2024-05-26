@@ -1,8 +1,8 @@
 <h1>Scoping Activities and Assignments</a> <a </a></h1>
-<h1>PCI DSS - Data Flow Diagram</h1>
+<h1>PCI DSS - Data Flow Narrative & Data Flow Diagram</h1>
 
 <h2>Description</h2>
-PCI Data Flow Narrative using Draw.io
+PCI Data Flow Narrative
 
 This project provides a visual representation of a PCI-compliant payment flow within a call center environment. 
 
@@ -15,7 +15,7 @@ It includes these steps:
 <br />
 
 
-<h2>Data Flow Diagram:</h2>
+<h2>Data Flow Diagram</h2>
 
 <p align="center">
 Launch the DFD: <br/>
